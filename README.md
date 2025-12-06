@@ -72,14 +72,13 @@ face_attendance/
 ### 🎥 Start Attendance Session  
 <img src="screenshots/session.png" width="430">
 
-### 📋 Attendance Table View  
+### 📋 Attendance  
 <img src="screenshots/attendance.png" width="430">
 
 ### 📥 Excel Export Preview  
 <img src="screenshots/excel.png" width="430">
 
 ---
-
 ## ⚙️ Setup & Run
 
 ```bash
