@@ -34,3 +34,23 @@ face_attendance/
 ├── templates/          # HTML templates
 └── static/
     └── style.css       # Basic styling
+
+## 📸 Screenshots
+
+### Login Page  
+<img src="screenshots/login.png" width="430">
+
+### Dashboard  
+<img src="screenshots/dashboard.png" width="430">
+
+### Add Student Page  
+<img src="screenshots/students.png" width="430">
+
+### Start Attendance Session  
+<img src="screenshots/session.png" width="430">
+
+### Attendance Records (Excel Export)  
+<img src="screenshots/excel.png" width="430">
+
+### Attendance Table View  
+<img src="screenshots/attendance.png" width="430">
