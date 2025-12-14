@@ -3,7 +3,7 @@
 A smart attendance management system using **Face Recognition** to automate student presence marking.  
 Faculty can start a session, the camera recognizes students, marks attendance with timestamps, and exports reports to **Excel**.  
 It also works from **mobile browser** over the same Wi-Fi/hotspot — making it usable in real classrooms.
-
+## demo video : https://www.linkedin.com/posts/shridhar-kalasgonda-86b03a295_python-flask-opencv-ugcPost-7405617083092377600-8z_c?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEdfy1MBx9W2TBVt-jWizHfkkfZKRq4_voo
 ---
 
 ## 🚀 Features
