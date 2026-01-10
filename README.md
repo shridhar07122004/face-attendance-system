@@ -72,7 +72,7 @@ face_attendance/
 ### 🎥 Start Attendance Session  
 <img src="screenshots/session.png" width="430">
 
-### 📋 Attendance  
+### 📋 Attendance Table View  
 <img src="screenshots/attendance.png" width="430">
 
 ### 📥 Excel Export Preview  
